@@ -3,8 +3,9 @@
 
 # Opdracht 2
 
-1. Formuleer je zoekstrategie: trefwoorden, filters, etc.
-   
-3. Voer uit je zoekstrategie en selecteer relevante dataset(s)
-   
-5. Documenteer je zoekstrategie en je selectie
+Beoordeel een dataset op bruikbaarheid
+1. FAIR principes
+2. Kwaliteit van data
+3. Zijn de datasets te combineren als je zelf je dataset met een CC BY licentie wilt publiceren?
+4. Citeer je dataset
+
