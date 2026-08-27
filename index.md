@@ -3,12 +3,6 @@ layout: default
 title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 ---
 
-<!-- Page Title with Larger Logo -->
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 1.5em;">
-  <img src="/Onderzoeksdata-zoeken-vinden/assets/DCC_SPRING_logo_2025.jpg" alt="DCC Logo" style="height: 120px;">
-  <h1 style="margin: 0;">Zoeken, vinden en beoordelen van onderzoeksdata</h1>
-</div>
-
 <!-- Intro Text -->
 <p>
 In deze workshop voor data stewards en beginnende onderzoekers leer je hoe je bestaande data vindt, beoordeelt en hergebruikt.
@@ -36,18 +30,14 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
         </tr>
       </thead>
       <tbody>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">12:30 - 13:00</td><td style="border: 1px solid #ccc; padding: 8px;">Lunch</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:00 - 13:10</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & kennismaking</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:10 - 13:35</td><td style="border: 1px solid #ccc; padding: 8px;">Inleiding & zoekstrategie: waar?</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">13:35 - 14:00</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:00 - 14:10</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:10 - 14:25</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:25 - 14:55</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:55 - 15:05</td><td style="border: 1px solid #ccc; padding: 8px;">Pauze</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:05 - 15:20</td><td style="border: 1px solid #ccc; padding: 8px;">Beoordelen van datasets</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:20 - 15:40</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 3</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:40 - 15:50</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 3</td></tr>
-        <tr><td style="border: 1px solid #ccc; padding: 8px;">15:50 - 16:00</td><td style="border: 1px solid #ccc; padding: 8px;">Wrap-up</td></tr>
+        <tr><td style="border: 1px solid #ccc; padding: 8px;">14:00 - 14:15</td><td style="border: 1px solid #ccc; padding: 8px;">Opening & Inleiding</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">14:15 - 14:35</td><td style="border: 1px solid #ccc; padding: 8px;">Waar zoek ik?</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">14:35 - 14:45</td><td style="border: 1px solid #ccc; padding: 8px;">Zoeken en documenteren</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">14:45 - 15:00</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 1</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">15:00 - 15:10</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 1</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">15:10 - 15:35</td><td style="border: 1px solid #ccc; padding: 8px;">Beoordelen van datasets</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">15:35 - 15:50</td><td style="border: 1px solid #ccc; padding: 8px;">Opdracht 2</td></tr>
+<tr><td style="border: 1px solid #ccc; padding: 8px;">15:50 - 16:00</td><td style="border: 1px solid #ccc; padding: 8px;">Bespreken opdracht 2</td></tr>
       </tbody>
     </table>
   </div>
@@ -58,7 +48,7 @@ Na afloop kun je niet alleen beter onderbouwde keuzes maken over bestaande data,
     <ul>
       <li><a href="Opdracht1">Opdracht 1</a></li>
       <li><a href="Opdracht2">Opdracht 2</a></li>
-      <li><a href="Opdracht3">Opdracht 2</a></li>
+   
     
    </ul>
     <div style="margin-top: 1.5em;">
