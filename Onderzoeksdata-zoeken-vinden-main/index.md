@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zoeken, vinden en beoordelen van onderzoeksdata"
+title: "Zoeken, vinden en beoordelen van onderzoeksdata": Open Science week 2026
 ---
 
 <!-- Page Title with Larger Logo -->
