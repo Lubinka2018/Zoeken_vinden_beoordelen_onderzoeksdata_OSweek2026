@@ -4,6 +4,7 @@ title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 ---
 
 # Zoeken, vinden en beoordelen van onderzoeksdata
+## Open Science Week 2026
 
 <!-- Intro Text -->
 <p>
