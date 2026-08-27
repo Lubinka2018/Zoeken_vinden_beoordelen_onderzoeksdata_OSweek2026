@@ -3,6 +3,8 @@ layout: default
 title: "Zoeken, vinden en beoordelen van onderzoeksdata"
 ---
 
+# Zoeken, vinden en beoordelen van onderzoeksdata
+
 <!-- Intro Text -->
 <p>
 In deze workshop voor data stewards en beginnende onderzoekers leer je hoe je bestaande data vindt, beoordeelt en hergebruikt.
