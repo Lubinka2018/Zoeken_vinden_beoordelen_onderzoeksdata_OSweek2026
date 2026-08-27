@@ -2,8 +2,12 @@
 
 # Opdracht 1 Formuleer je onderzoeksvraag 
 
-1. Selecteer relevante data repositories en andere bronnen 
+Bedenk een onderwerp/thema
+1. Ga naar Re3data en selecteer relevante data repositories 
+2. Kies één repository en zoek daar naar relevante datasets
+3. Ga naar DANS Data Stations en zoek daar naar relevante datasets  
+4. Hoe heb je gezocht? (trefwoorden, filters, etc.)
+5. Onthoud de gevonden datasets voor de volgende opdracht
+6. Wat zijn je ervaringen? Waar ben je tegen aan gelopen? Wat ging goed, wat niet?
 
-2. Maak een planning: wanneer ga je zoeken? In welke volgorde ga je zoeken (zoekmachines, repositories, literatuur, etc.)? 
 
-3. Verantwoord je strategie en selectie
